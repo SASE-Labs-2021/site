@@ -2,7 +2,7 @@
 fragment = "item"
 date = "2017-10-04"
 weight = 130
-background = "primary"
+background = "secondary"
 align = "right"
 
 title = "Co-director"
@@ -13,5 +13,7 @@ subtitle= "Nathaniel Budijono"
 +++
 
 **Year**: Junior
+
 **Major**: Computer Science and Math
+
 **Ask me about**: computational biology research, web programming, STEM education, data science, cultural foods, trivia
