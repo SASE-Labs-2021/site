@@ -22,7 +22,7 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
         header = "First Meeting"
 
     [[rows.values]]
-    	text = "Wed, Sep 16 5-6pm"
+    	text = "Sun, Sep 27 4:30-6pm"
     
     [[rows.values]]
         text = "TBD"
