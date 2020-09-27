@@ -80,6 +80,11 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Events"
   weight = 30
 
+[[menu.main]]
+  url = "/workshops"
+  name = "Workshops"
+  weight = 40
+
 [[menu.footer]]
   url = "https://gopherlink.umn.edu/organization/2749"
   name = "Gopherlink"

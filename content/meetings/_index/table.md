@@ -14,16 +14,10 @@ subtitle = "Check here to see our event schedule. Zoom links for attending virtu
     [[header.values]]
         text = "Time"
 
-    [[header.values]]
-        text = "Video"
-
 [[rows]]
     [[rows.values]]
         header = "First Meeting"
 
     [[rows.values]]
     	text = "Sun, Sep 27 4:30-6pm"
-    
-    [[rows.values]]
-        text = "TBD"
 +++
