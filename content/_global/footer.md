@@ -16,7 +16,7 @@ menu_title = "More links"
 
 ### SASE Labs UMN
 
-Interdisciplinary STEM projects and workshops. Join to learn new things, meet new people, and build new stuff!
+Interdisciplinary STEM projects and workshops. Join to learn new things, meet new people, and build cool stuff!
 
 ##### Interested in collaborating?
 

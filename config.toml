@@ -86,10 +86,20 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.footer]]
-  url = "https://gopherlink.umn.edu/organization/2749"
-  name = "Gopherlink"
+  url = "https://discord.gg/Z9VEKrh"
+  name = "Discord"
   weight = 10
 
+[[menu.footer]]
+  url = "https://saseumn.org"
+  name = "SASE UMN"
+  weight = 10
+
+#[[menu.footer]]
+#  url = "https://gopherlink.umn.edu/organization/2749"
+#  name = "Gopherlink"
+#  weight = 10
+#
 # [[menu.footer]]
 #   url = "https://calendar.google.com/calendar?cid=YXBwZGV2ZWxAdW1uLmVkdQ"
 #   name = "Google Calendar"
