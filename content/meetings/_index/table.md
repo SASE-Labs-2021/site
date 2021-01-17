@@ -5,7 +5,7 @@ weight = 110
 background = "secondary"
 
 title = "Event Schedule"
-subtitle = "Check here to see our event schedule. Fill out the interest form to access the weekly meetings. All workshop details can be found on [Facebook](https://facebook.com/sase.umn). Want a sneak peak? Check out our GitHub."
+subtitle = "Check here to see our event schedule. Fill out the interest form to access the weekly meetings. All workshop details, including the Zoom links, can be found on [Facebook](https://facebook.com/sase.umn). Want a sneak peak? Check out our GitHub."
 
 [header]
     [[header.values]]
@@ -37,29 +37,36 @@ subtitle = "Check here to see our event schedule. Fill out the interest form to 
 
 [[rows]]
     [[rows.values]]
-        header = "Control Systems workshop"
+        header = "[Control Systems workshop](https://github.com/SASE-Labs-2021/inverted-pendulum)"
 
     [[rows.values]]
         text = "Fri, Nov 13 4-5:30pm"
 
 [[rows]]
     [[rows.values]]
-        header = "How to make your own Portfolio Website!"
+        header = "[How to make your own Portfolio Website -- Just in time for the Career Fair!](https://sase-labs-2021.github.io/hugo-portfolio-guide/)"
 
     [[rows.values]]
-        text = "Spring Semester TBD"
+        text = "Mon, Feb 1 4-5:30pm"
 
 [[rows]]
     [[rows.values]]
         header = "MATLAB Workshops"
 
     [[rows.values]]
-        text = "Spring Semester TBD"
+        text = "Wed, Mar 3, 10 Time TBD"
 
 [[rows]]
     [[rows.values]]
-        header = "Emergent Engineering workshop"
+        header = "[Emergent Engineering workshop](https://github.com/SASE-Labs-2021/boids)"
 
     [[rows.values]]
-        text = "Spring Semester TBD"
+        text = "Wed, Mar 17 Time TBD"
+
+[[rows]]
+    [[rows.values]]
+        header = "SASE Labs Symposium"
+
+    [[rows.values]]
+        text = "Fri, Apr 23 3:30-5:30pm"
 +++
