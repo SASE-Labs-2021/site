@@ -23,7 +23,7 @@ subtitle = "Check here to see our event schedule. Fill out the interest form to 
 
 [[rows]]
     [[rows.values]]
-        header = "Weekly Meetings"
+        header = "[Weekly Meetings](https://discord.gg/Z9VEKrh)"
 
     [[rows.values]]
         text = "Every Sun 4-5:30pm"
@@ -51,22 +51,15 @@ subtitle = "Check here to see our event schedule. Fill out the interest form to 
 
 [[rows]]
     [[rows.values]]
-        header = "MATLAB Workshops"
+        header = "[MATLAB Workshops](https://github.com/SASE-Labs-2021/MATLAB)"
 
     [[rows.values]]
-        text = "Wed, Mar 3, 10 Time TBD"
-
-[[rows]]
-    [[rows.values]]
-        header = "[Emergent Engineering workshop](https://github.com/SASE-Labs-2021/boids)"
-
-    [[rows.values]]
-        text = "Wed, Mar 17 Time TBD"
+        text = "Wed, Mar 3, 10, 17 2-3:30pm"
 
 [[rows]]
     [[rows.values]]
         header = "SASE Labs Symposium"
 
     [[rows.values]]
-        text = "Fri, Apr 23 3:30-5:30pm"
+        text = "Wed, Apr 21, 3:30-4:30pm"
 +++
